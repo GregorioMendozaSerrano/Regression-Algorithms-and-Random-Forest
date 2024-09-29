@@ -1,5 +1,5 @@
 # Objective
-The objective of this exercise is to propose a practical application for students to develop the skills acquired in the course modules that cover the areas of Linear and Logistic Regressions, as well as Random Forest and Decision Trees.
+The objective of this exercise is to propose a practical application to develop skills covering the areas of Linear and Logistic Regressions, as well as Random Forest and Decision Trees.
 
 # Statement
 In the notebook, the different datasets used in the exercise are loaded.
